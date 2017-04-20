@@ -1,6 +1,6 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
   <groupId>Steve.app1</groupId>
-  <artifactId>Hello</artifactId>
+  <artifactId>WEB-INF</artifactId>
   <version>1</version>
 </project>
