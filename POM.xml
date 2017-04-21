@@ -7,13 +7,6 @@
     <packaging>jar</packaging>
     <version>0.1.0</version>
 
-    <dependencies>
-        <dependency>
-            <groupId>javax-servlet</groupId>
-            <artifactId>javax-servlet</artifactId>
-            <version>1.8</version>
-        </dependency>
-        </dependencies>
             
     <build>
         <plugins>
