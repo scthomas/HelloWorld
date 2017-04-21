@@ -1,6 +1,6 @@
 package hello;
 
-import static org.hamcrest.CoreMatchers.containsString;
+import static org.hamcrest.Matchers.containsString;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
