@@ -1,9 +1,9 @@
 package hello;
 
 import static org.hamcrest.CoreMatchers.containsString;
-import static junit.Assert.*;
+import static org.junit.Assert.*;
 
-import junit.Test;
+import org.junit.Test;
 
 public class GreeterTest {
 
