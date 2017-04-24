@@ -1,7 +1,7 @@
 package hello;
 
 import static org.hamcrest.CoreMatchers.containsString;
-import static org.junit.Assert.*;
+import static junit.Assert.*;
 
 import org.junit.Test;
 
