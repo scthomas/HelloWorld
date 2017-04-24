@@ -3,7 +3,7 @@ package hello;
 import static org.hamcrest.CoreMatchers.containsString;
 import static junit.Assert.*;
 
-import org.junit.Test;
+import junit.Test;
 
 public class GreeterTest {
 
